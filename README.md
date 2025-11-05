@@ -6,4 +6,4 @@ En la pagina web se explica qué es el hardware, cómo podemos diagnosticar un p
 
 ---
 ## Enlace a la pagina
-[DRMI](https://sites.google.com/elpuig.xeill.net/drmi/introcci%C3%B3)
+[DRMI](https://sites.google.com/elpuig.xeill.net/drmi/introducci%C3%B3)
